@@ -1,0 +1,94 @@
+﻿@model IEnumerable<Job_Offers_Website.Models.JobsViewModel>
+
+@foreach (var gr in Model)
+{
+    <div class="card text-center" style="margin:20px;">
+        <div class="card-header">
+            <h3>Job Title : @gr.JobTitle</h3>
+        </div>
+        <div class="card-body">
+            <table class="table table-success table-striped table-bordered">
+                <tr>
+                    <th>
+                        User Name
+                    </th>
+                    <th>
+                        Message
+                    </th>
+                    <th>Uploud Cv</th>
+                    <th>
+                        Apply Date
+                    </th>
+                </tr>
+                @foreach (var item in gr.Items)
+                {
+
+                    <tr>
+                        <td>
+                            @item.user.UserName
+                        </td>
+                        <td>
+                            <span class="d-inline-block text-truncate" style="max-width: 150px;">
+                                @item.Message
+                            </span>
+
+                            @if (@item.Message.Length > 17)
+                            {
+                                <!-- Button trigger modal -->
+                                <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#exampleModal">
+                                    View
+                                </button>
+                                <!-- Modal -->
+                               <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <h5 class="modal-title" id="exampleModalLabel">View Message</h5>
+                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                            <span aria-hidden="true">&times;</span>
+                                        </button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <p>
+                                            @item.Message
+                                        </p>
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                            }
+                        </td>
+                        <td>
+                            <a id="cvLink" href="~/Uploads/@item.Cv" target="_blank"> @item.Cv</a>
+                        </td>
+                        <td>
+                            @item.ApplyDate
+                        </td>
+                    </tr>
+                }
+            </table>
+        </div>
+
+    </div>
+}
+
+
+
+@section scripts
+{
+    @*<script>
+           jQuery(document).ready(function () {
+               $("#cvLink").click(function (e) {
+                   e.preventDefault();
+                   var href = $(this).attr('href','~/Uploads/cv_1.pdf');
+                   window.open(href);
+                   return false;
+               });
+           });
+        </script>*@
+}
+

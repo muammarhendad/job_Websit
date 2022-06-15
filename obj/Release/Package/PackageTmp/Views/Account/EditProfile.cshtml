@@ -1,0 +1,81 @@
+﻿@model WebApplication3.Models.EditProfileViewModel
+
+@{
+    ViewBag.Title = "Edit Profile";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+<div class="container">
+    <div class="row">
+        <div class="col-lg-10 col-xl-9 mx-auto">
+            <div class="card card-signin flex-row my-5">
+                <div class="card-img-left d-none d-md-flex">
+                    <!-- Background image for card set in CSS! -->
+                </div>
+
+
+                <div class="card-body">
+                    <h3 class="card-title text-center">Edit Profile</h3>
+                    @if (ViewBag.Msg != null)
+                    {
+                    <div class="alert alert-warning" role="alert">
+                        <strong>@ViewBag.Msg</strong>
+                    </div>
+                    }
+
+                    @using (Html.BeginForm())
+                    {
+                        @Html.AntiForgeryToken()
+
+                        @Html.ValidationSummary("", new { @class = "text-danger" })
+
+                        <!--user name -->
+                        <div class="form-label-group">
+                            @Html.TextBoxFor(m => m.UserName, new { @class = "form-control", id = "inputUserame", @placeholder = "Username" })
+                            <label for="inputUserame">Username</label>
+                        </div>
+
+                        <!--Email -->
+                        <div class="form-label-group">
+                            @Html.TextBoxFor(m => m.Email, new { @class = "form-control", id = "inputEmail", @placeholder = "Email address" })
+                            <label for="inputEmail">Email address</label>
+                        </div>
+                        <hr>
+                        <!--Current password -->
+                        <div class="form-label-group">
+                            @Html.PasswordFor(m => m.CurrentPassword, new { @class = "form-control", id = "inputCurrentPassword", @placeholder = "Current Password" })
+                            <label for="inputCurrentPassword">Current Password</label>
+                        </div>
+                        <!--New password -->
+                        <div class="form-label-group">
+                            @Html.PasswordFor(m => m.NewPassword, new { @class = "form-control", id = "inputNewPassword", @placeholder = "New Password" })
+                            <label for="inputNewPassword">New Password</label>
+                        </div>
+                        <!-- Confirm New password -->
+                        <div class="form-label-group">
+                            @Html.PasswordFor(m => m.ConfirmPassword, new { @class = "form-control", id = "inputConfirmPassword", @placeholder = "Confirm Password" })
+                            <label for="inputConfirmPassword">Confirm New Password</label>
+                        </div>
+
+                        <!--Buttons -->
+                        <hr class="my-4">
+                        <button id="btnSave" class="btn btn-lg btn-primary btn-block text-uppercase" type="submit">Save</button>
+                    }
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<style>
+    :root {
+        --input-padding-x: 1.5rem;
+        --input-padding-y: .75rem;
+    }
+
+    #user_type {
+        display: none;
+    }
+</style>
+

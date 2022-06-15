@@ -1,0 +1,85 @@
+﻿@model Job_Offers_Website.Models.Category
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+<div class="container">
+    <div class="row">
+        <div class="col-lg-8">
+            <div class="card text-center">
+                <div class="card-header">
+                    <h3 class="display-5"> Details Category </h3>
+                </div>
+                <hr />
+                <dl class="dl-horizontal">
+                    <dt>
+                        @Html.DisplayNameFor(model => model.CategoryName)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.CategoryName)
+                        <hr />
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.CategoryDescription)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.CategoryDescription)
+                    </dd>
+
+                </dl>
+                <hr />
+                <div class="form-actions no-color" style="margin:20px;">
+                    @Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-outline-primary" })
+                    @Html.ActionLink("Edit This Category ", "Edit", new { id = Model.Id }, new { @class = "btn btn-info" })
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<style>
+    .btn{
+        margin:10px;
+    }
+    .card {
+        background-position-y: center;
+        margin: 30px;
+        box-shadow: inset 0 -3em 3em rgba(0,0,0,0.1), 0 0 0 2px rgb(255,255,255), 0.3em 0.3em 1em rgba(0,0,0,0.3);
+    }
+
+</style>
+
+
+
+@*<div>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.CategoryName)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.CategoryName)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.CategoryDescription)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.CategoryDescription)
+            </dd>
+
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>*@

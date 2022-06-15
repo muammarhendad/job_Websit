@@ -1,0 +1,30 @@
+﻿@model IEnumerable<Job_Offers_Website.Models.Job>
+@{
+    ViewBag.Title = "Search";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+<div class="card" style="margin-bottom:30px; min-width:100%;">
+        <div class="card-header">
+            <h2>Search Result </h2>
+        </div>
+        <div class="row row-cols-1 row-cols-md-3">
+            @foreach (var subitem in Model)
+            {
+                <div class="col-md-3" style="margin-bottom:10px;margin-top:10px;">
+                    <div class="card text-center h-100" id="Card_contant">
+                        <div class="card-body">
+                            <img class="card-img-top" src="~/Uploads/@subitem.JobImg" />
+                            <h4 class="card-title">@Html.DisplayFor(model_item => subitem.JobTitle)</h4>
+                            <p class="card-text d-inline-block text-truncate" style="max-width: 150px;">
+                            @Html.DisplayFor(model_item => subitem.JobContent)</p>
+                            @*<a class="btn btn-info"  > Details &raquo; </a>*@
+                            @Html.ActionLink("Details", "Details", new { JobId = subitem.Id }, new { @class = "btn btn-info" })
+                        </div>
+                    </div>
+                </div>
+
+            }
+
+        </div>
+    </div>

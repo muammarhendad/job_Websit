@@ -1,0 +1,61 @@
+﻿@model IEnumerable<Job_Offers_Website.Models.ApplyForJob>
+
+@{
+    ViewBag.Title = "GetJobsUser";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+ 
+    <div style="padding-top:20px;">
+        <h2><strong>Jobs list That You Applyed</strong> </h2>
+        <br />
+        <p>
+            @Html.ActionLink("Apply New Job", "Index", null, new { @class = "btn btn-success" })
+        </p>
+    </div>
+    <table class="table table-bordered border-success">
+        <thead class="thead-light">
+            <tr>
+                <th scope="col">
+                    @Html.DisplayNameFor(model => model.job.JobTitle)
+                </th>
+                <th scope="col">
+                    @Html.DisplayNameFor(model => model.Message)
+                </th>
+                <th scope="col">
+                    @Html.DisplayNameFor(model => model.Cv)
+                </th>
+                <th scope="col">
+                    @Html.DisplayNameFor(model => model.ApplyDate)
+                </th>
+
+                <th></th>
+            </tr>
+         </thead>
+            @foreach (var item in Model)
+            {
+      <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.job.JobTitle)
+        </td>
+
+        <td>
+            <span class="d-inline-block text-truncate" style="max-width: 150px;">
+                @item.Message
+            </span>
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Cv)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ApplyDate)
+        </td>
+
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id = item.Id }, new { @class = "btn btn-outline-warning" })
+            @Html.ActionLink("Details", "DetailsOfJob", new { id = item.Id }, new { @class = "btn btn-outline-info" })
+            @Html.ActionLink("Delete", "Delete", new { id = item.Id }, new { @class = "btn btn-outline-danger" })
+        </td>
+    </tr>
+            }
+
+    </table>

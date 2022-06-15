@@ -1,0 +1,165 @@
+﻿
+
+#maindiv {
+    background: #92acb1d0;
+    background: linear-gradient(to right, #a4abb4, #7f98a8);
+}
+
+.card-signin {
+
+    border: 0;
+    border-radius: 2rem;
+    box-shadow: 0.1rem 0.5rem 2rem 0 #7f98a8;
+    overflow: hidden;
+}
+
+    .card-signin .card-title {
+        margin-bottom: 2rem;
+        font-weight: 300;
+        font-size: 1.5rem;
+    }
+
+    .card-signin .card-img-left {
+        width: 45%;
+        /* Link to your background image using in the property below! */
+        background: scroll center url('../../Images/registerimg.jpg');
+        background-size: cover;
+    }
+
+    .card-signin .card-body {
+        padding: 2rem;
+    }
+
+.form-signin {
+    width: 100%;
+}
+
+    .form-signin .btn {
+        font-size: 80%;
+        border-radius: 5rem;
+        letter-spacing: .1rem;
+        font-weight: bold;
+        padding: 1rem;
+        transition: all 0.2s;
+    }
+
+.form-label-group {
+    position: relative;
+    margin-bottom: 1rem;
+}
+
+    .form-label-group input {
+        height: auto;
+        border-radius: 2rem;
+    }
+
+    .form-label-group > input,
+    .form-label-group > label {
+        padding: var(--input-padding-y) var(--input-padding-x);
+    }
+
+    .form-label-group > label {
+        position: absolute;
+        top: 0;
+        left: 0;
+        display: block;
+        width: 100%;
+        margin-bottom: 0;
+        /* Override default `<label>` margin */
+        line-height: 1.5;
+        color: #495057;
+        border: 1px solid transparent;
+        border-radius: .25rem;
+        transition: all .1s ease-in-out;
+    }
+
+    .form-label-group input::-webkit-input-placeholder {
+        color: transparent;
+    }
+
+    .form-label-group input:-ms-input-placeholder {
+        color: transparent;
+    }
+
+    .form-label-group input::-ms-input-placeholder {
+        color: transparent;
+    }
+
+    .form-label-group input::-moz-placeholder {
+        color: transparent;
+    }
+
+    .form-label-group input::placeholder {
+        color: transparent;
+    }
+
+    .form-label-group input:not(:placeholder-shown) {
+        padding-top: calc(var(--input-padding-y) + var(--input-padding-y) * (2 / 3));
+        padding-bottom: calc(var(--input-padding-y) / 3);
+    }
+
+        .form-label-group input:not(:placeholder-shown) ~ label {
+            padding-top: calc(var(--input-padding-y) / 3);
+            padding-bottom: calc(var(--input-padding-y) / 3);
+            font-size: 12px;
+            color: #777;
+        }
+
+.btn-google {
+    color: white;
+    background-color: #ea4335;
+}
+
+.btn-facebook {
+    color: white;
+    background-color: #3b5998;
+}
+
+.switch-field {
+    padding-left: 30px;
+    display: flex;
+    margin-bottom: 10px;
+    overflow: hidden;
+}
+
+    .switch-field input {
+        position: absolute !important;
+        clip: rect(0, 0, 0, 0);
+        height: 1px;
+        width: 1px;
+        border: 0;
+        overflow: hidden;
+    }
+
+    .switch-field label {
+        width: 120px;
+        font-weight: bold;
+        font-family: Georgia, serif;
+        background-color: white;
+        color: rgba(0, 0, 0, 0.6);
+        font-size: 16px;
+        line-height: 2;
+        text-align: center;
+        padding: 8px 16px;
+        margin-right: -1px;
+        border: 1px solid rgba(240, 233, 233, 0.904);
+        box-shadow: inset 0.5 2px 2px rgba(223, 216, 216, 0.911), 0 1px rgba(185, 181, 181, 0.712);
+        transition: all 0.1s ease-in-out;
+    }
+
+        .switch-field label:hover {
+            cursor: pointer;
+        }
+
+    .switch-field input:checked + label {
+        background-color: #6dbd3f;
+        box-shadow: none;
+    }
+
+    .switch-field label:first-of-type {
+        border-radius: 1rem;
+    }
+
+    .switch-field label:last-of-type {
+        border-radius: 1rem;
+    }

@@ -1,0 +1,61 @@
+﻿@model Job_Offers_Website.Models.Job
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+<div class="card mb-3" style="margin-top:20px;">
+    <div class="card-header">
+        <h3 class="display-5">Details Selected Job  </h3>
+    </div>
+    <div class="row g-0">
+        <div class="col-md-3">
+            @*<div style="margin:15px 1px 10px 10px">
+                    @Html.ActionLink("Back to List Jobs", "Index", null, new { @class = "btn btn-outline-info" })
+                </div>*@
+            <img src="~/Uploads/@Html.DisplayFor(model => model.JobImg)"
+                 class="img-thumbnail" />
+
+        </div>
+        <div class="col-md-9">
+            <div class="card-body">
+                <dl class="dl-horizontal">
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Category.CategoryName)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Category.CategoryName)
+                        <hr />
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.JobTitle)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.JobTitle)
+                        <hr />
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.JobContent)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.JobContent)
+                        <hr />
+                    </dd>
+                </dl>
+            </div>
+            <p style="margin-left:10px;">
+                @Html.ActionLink("Back to Lis", "Index",null, new { @class = "btn btn-outline-info btn-lg" })
+                @Html.ActionLink("Edit", "Edit", new { id = Model.Id }, new { @class = "btn btn-info btn-lg" })
+
+            </p>
+
+        </div>
+    </div>
+</div>
+

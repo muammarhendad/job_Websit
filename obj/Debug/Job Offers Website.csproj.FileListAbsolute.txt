@@ -1,0 +1,470 @@
+D:\MyProject\Job Offers Website\Job Offers Website\bin\Job Offers Website.dll.config
+D:\MyProject\Job Offers Website\Job Offers Website\bin\Job Offers Website.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\Job Offers Website.pdb
+D:\MyProject\Job Offers Website\Job Offers Website\bin\roslyn\csc.exe
+D:\MyProject\Job Offers Website\Job Offers Website\bin\roslyn\csc.exe.config
+D:\MyProject\Job Offers Website\Job Offers Website\bin\roslyn\csc.rsp
+D:\MyProject\Job Offers Website\Job Offers Website\bin\roslyn\csi.exe
+D:\MyProject\Job Offers Website\Job Offers Website\bin\roslyn\csi.exe.config
+D:\MyProject\Job Offers Website\Job Offers Website\bin\roslyn\csi.rsp
+D:\MyProject\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MyProject\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.Managed.Core.targets
+D:\MyProject\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MyProject\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\roslyn\System.AppContext.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\roslyn\System.Collections.Immutable.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\roslyn\System.Console.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\roslyn\System.Globalization.Calendars.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\roslyn\System.IO.Compression.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\roslyn\System.IO.FileSystem.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\roslyn\System.Net.Http.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\roslyn\System.Net.Sockets.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\roslyn\System.Reflection.Metadata.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\roslyn\System.ValueTuple.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\roslyn\System.Xml.XmlDocument.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\roslyn\System.Xml.XPath.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\roslyn\vbc.exe
+D:\MyProject\Job Offers Website\Job Offers Website\bin\roslyn\vbc.exe.config
+D:\MyProject\Job Offers Website\Job Offers Website\bin\roslyn\vbc.rsp
+D:\MyProject\Job Offers Website\Job Offers Website\bin\roslyn\VBCSCompiler.exe
+D:\MyProject\Job Offers Website\Job Offers Website\bin\roslyn\VBCSCompiler.exe.config
+D:\MyProject\Job Offers Website\Job Offers Website\bin\EntityFramework.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\EntityFramework.SqlServer.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\Microsoft.Web.Infrastructure.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\System.Web.Helpers.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\System.Web.Mvc.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\System.Web.Razor.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\System.Web.Webpages.Deployment.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\System.Web.Webpages.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\System.Web.Webpages.Razor.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\EntityFramework.xml
+D:\MyProject\Job Offers Website\Job Offers Website\bin\EntityFramework.SqlServer.xml
+D:\MyProject\Job Offers Website\Job Offers Website\bin\System.Web.Razor.xml
+D:\MyProject\Job Offers Website\Job Offers Website\bin\System.Web.Webpages.xml
+D:\MyProject\Job Offers Website\Job Offers Website\bin\System.Web.Webpages.Deployment.xml
+D:\MyProject\Job Offers Website\Job Offers Website\bin\System.Web.Webpages.Razor.xml
+D:\MyProject\Job Offers Website\Job Offers Website\bin\System.Web.Helpers.xml
+D:\MyProject\Job Offers Website\Job Offers Website\bin\System.Web.Mvc.xml
+D:\MyProject\Job Offers Website\Job Offers Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MyProject\Job Offers Website\Job Offers Website\obj\Debug\Job Offers Website.csprojAssemblyReference.cache
+D:\MyProject\Job Offers Website\Job Offers Website\obj\Debug\Job Offers Website.csproj.CoreCompileInputs.cache
+D:\MyProject\Job Offers Website\Job Offers Website\obj\Debug\Job Offers Website.csproj.CopyComplete
+D:\MyProject\Job Offers Website\Job Offers Website\obj\Debug\Job Offers Website.dll
+D:\MyProject\Job Offers Website\Job Offers Website\obj\Debug\Job Offers Website.pdb
+D:\MyProject\Job Offers Website\Job Offers Website\bin\Antlr3.Runtime.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\Microsoft.AspNet.Identity.Core.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.Cookies.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.Google.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.OAuth.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\Newtonsoft.Json.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\Owin.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\System.Web.Optimization.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\WebGrease.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\Antlr3.Runtime.pdb
+D:\MyProject\Job Offers Website\Job Offers Website\bin\Microsoft.AspNet.Identity.Core.xml
+D:\MyProject\Job Offers Website\Job Offers Website\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\MyProject\Job Offers Website\Job Offers Website\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\MyProject\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.xml
+D:\MyProject\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\MyProject\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.xml
+D:\MyProject\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.Cookies.xml
+D:\MyProject\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.Google.xml
+D:\MyProject\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.OAuth.xml
+D:\MyProject\Job Offers Website\Job Offers Website\bin\Newtonsoft.Json.xml
+D:\MyProject\Job Offers Website\Job Offers Website\bin\System.Web.Optimization.xml
+D:\MyProject\Job Offers Website\Job Offers Website\obj\Debug\Job_Offers_Website.Migrations.InitialCreate.resources
+D:\MyProject\Job Offers Website\Job Offers Website\obj\Debug\Job Offers Website.csproj.GenerateResource.cache
+D:\MyProject\Job Offers Website\Job Offers Website\obj\Debug\Job_Offers_Website.Migrations.AddColumnUserType.resources
+D:\MyProject\Job Offers Website\Job Offers Website\obj\Debug\Job_Offers_Website.Migrations.AddCategoryTable.resources
+D:\MyProject\Job Offers Website\Job Offers Website\obj\Debug\Job_Offers_Website.Migrations.AddCategory_Table.resources
+D:\MyProject\Job Offers Website\Job Offers Website\obj\Debug\Job_Offers_Website.Migrations.AddJob_Table.resources
+D:\MyProject\Job Offers Website\Job Offers Website\obj\Debug\Job_Offers_Website.Migrations.AddApplyForJobTable.resources
+D:\MyProject\Job Offers Website\Job Offers Website\obj\Debug\Job_Offers_Website.Migrations.EditJobModel.resources
+D:\MyProject\Job Offers Website\Job Offers Website\obj\Debug\Job_Offers_Website.Migrations.AddCVTOApplyForJob.resources
+D:\MyProject\Job Offers Website\Job Offers Website\bin\PagedList.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\PagedList.Mvc.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\PagedList.xml
+D:\MyProject\Job Offers Website\Job Offers Website\bin\PagedList.Mvc.xml
+D:\MyProject\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.Facebook.dll
+D:\MyProject\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\Job Offers Website.dll.config
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\Job Offers Website.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\Job Offers Website.pdb
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\roslyn\csc.exe
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\roslyn\csc.exe.config
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\roslyn\csc.rsp
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\roslyn\csi.exe
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\roslyn\csi.exe.config
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\roslyn\csi.rsp
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\roslyn\System.AppContext.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\roslyn\System.Console.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\roslyn\System.IO.Compression.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\roslyn\System.Net.Http.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\roslyn\System.ValueTuple.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\roslyn\vbc.exe
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\roslyn\vbc.exe.config
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\roslyn\vbc.rsp
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\roslyn\VBCSCompiler.exe
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\Antlr3.Runtime.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\EntityFramework.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\EntityFramework.SqlServer.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\Newtonsoft.Json.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\Owin.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\PagedList.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\PagedList.Mvc.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\System.Web.Helpers.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\System.Web.Mvc.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\System.Web.Optimization.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\System.Web.Razor.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\System.Web.Webpages.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\System.Web.Webpages.Razor.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\WebGrease.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\Antlr3.Runtime.pdb
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\EntityFramework.xml
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\EntityFramework.SqlServer.xml
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.xml
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.xml
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\Newtonsoft.Json.xml
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\PagedList.xml
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\PagedList.Mvc.xml
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\System.Web.Optimization.xml
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\System.Web.Razor.xml
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\System.Web.Webpages.xml
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\System.Web.Webpages.Razor.xml
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\System.Web.Helpers.xml
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\System.Web.Mvc.xml
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\obj\Debug\Job Offers Website.csprojAssemblyReference.cache
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\obj\Debug\Job_Offers_Website.Migrations.InitialCreate.resources
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\obj\Debug\Job_Offers_Website.Migrations.AddColumnUserType.resources
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\obj\Debug\Job_Offers_Website.Migrations.AddCategoryTable.resources
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\obj\Debug\Job_Offers_Website.Migrations.AddCategory_Table.resources
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\obj\Debug\Job_Offers_Website.Migrations.AddJob_Table.resources
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\obj\Debug\Job_Offers_Website.Migrations.AddApplyForJobTable.resources
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\obj\Debug\Job_Offers_Website.Migrations.EditJobModel.resources
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\obj\Debug\Job_Offers_Website.Migrations.AddCVTOApplyForJob.resources
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\obj\Debug\Job Offers Website.csproj.GenerateResource.cache
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\obj\Debug\Job Offers Website.csproj.CoreCompileInputs.cache
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\obj\Debug\Job Offers Website.csproj.CopyComplete
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\obj\Debug\Job Offers Website.dll
+C:\Users\Muaam\OneDrive\Desktop\Job Offers Website\Job Offers Website\obj\Debug\Job Offers Website.pdb
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Job Offers Website.dll.config
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Job Offers Website.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Job Offers Website.pdb
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\csc.exe
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\csc.exe.config
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\csc.rsp
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\csi.exe
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\csi.exe.config
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\csi.rsp
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.CodeAnalysis.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.CSharp.Core.targets
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.Managed.Core.targets
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.Win32.Primitives.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\System.AppContext.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\System.Collections.Immutable.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\System.Console.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\System.Diagnostics.StackTrace.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\System.Globalization.Calendars.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\System.IO.Compression.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\System.IO.Compression.ZipFile.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\System.IO.FileSystem.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\System.IO.FileSystem.Primitives.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\System.Net.Http.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\System.Net.Sockets.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\System.Reflection.Metadata.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\System.Security.Cryptography.Encoding.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\System.Security.Cryptography.Primitives.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\System.Text.Encoding.CodePages.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\System.Threading.Tasks.Extensions.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\System.ValueTuple.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\System.Xml.ReaderWriter.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\System.Xml.XmlDocument.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\System.Xml.XPath.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\System.Xml.XPath.XDocument.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\vbc.exe
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\vbc.exe.config
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\vbc.rsp
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\VBCSCompiler.exe
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\VBCSCompiler.exe.config
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Antlr3.Runtime.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\EntityFramework.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\EntityFramework.SqlServer.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Microsoft.AspNet.Identity.Core.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Microsoft.AspNet.Identity.Owin.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Host.SystemWeb.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.Cookies.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.Facebook.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.Google.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.OAuth.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Microsoft.Web.Infrastructure.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Newtonsoft.Json.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Owin.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\PagedList.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\PagedList.Mvc.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\System.Web.Helpers.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\System.Web.Mvc.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\System.Web.Optimization.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\System.Web.Razor.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\System.Web.Webpages.Deployment.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\System.Web.Webpages.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\System.Web.Webpages.Razor.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\WebGrease.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Antlr3.Runtime.pdb
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\EntityFramework.xml
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\EntityFramework.SqlServer.xml
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Microsoft.AspNet.Identity.Core.xml
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Microsoft.AspNet.Identity.Owin.xml
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.xml
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Host.SystemWeb.xml
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.xml
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.Cookies.xml
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.Facebook.xml
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.Google.xml
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.OAuth.xml
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Newtonsoft.Json.xml
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\PagedList.xml
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\PagedList.Mvc.xml
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\System.Web.Optimization.xml
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\System.Web.Razor.xml
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\System.Web.Webpages.xml
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\System.Web.Webpages.Deployment.xml
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\System.Web.Webpages.Razor.xml
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\System.Web.Helpers.xml
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\System.Web.Mvc.xml
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\obj\Debug\Job Offers Website.csprojAssemblyReference.cache
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\obj\Debug\Job_Offers_Website.Migrations.InitialCreate.resources
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\obj\Debug\Job_Offers_Website.Migrations.AddColumnUserType.resources
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\obj\Debug\Job_Offers_Website.Migrations.AddCategoryTable.resources
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\obj\Debug\Job_Offers_Website.Migrations.AddCategory_Table.resources
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\obj\Debug\Job_Offers_Website.Migrations.AddJob_Table.resources
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\obj\Debug\Job_Offers_Website.Migrations.AddApplyForJobTable.resources
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\obj\Debug\Job_Offers_Website.Migrations.EditJobModel.resources
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\obj\Debug\Job_Offers_Website.Migrations.AddCVTOApplyForJob.resources
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\obj\Debug\Job Offers Website.csproj.GenerateResource.cache
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\obj\Debug\Job Offers Website.csproj.CoreCompileInputs.cache
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\obj\Debug\Job Offers Website.csproj.CopyComplete
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\obj\Debug\Job Offers Website.dll
+K:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\obj\Debug\Job Offers Website.pdb
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Job Offers Website.dll.config
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Job Offers Website.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Job Offers Website.pdb
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\csc.exe
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\csc.exe.config
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\csc.rsp
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\csi.exe
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\csi.exe.config
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\csi.rsp
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.Managed.Core.targets
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\System.AppContext.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\System.Collections.Immutable.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\System.Console.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\System.Globalization.Calendars.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\System.IO.Compression.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\System.IO.FileSystem.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\System.Net.Http.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\System.Net.Sockets.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\System.Reflection.Metadata.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\System.ValueTuple.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\System.Xml.XmlDocument.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\System.Xml.XPath.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\vbc.exe
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\vbc.exe.config
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\vbc.rsp
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\VBCSCompiler.exe
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\roslyn\VBCSCompiler.exe.config
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Antlr3.Runtime.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\EntityFramework.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\EntityFramework.SqlServer.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Microsoft.AspNet.Identity.Core.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.Cookies.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.Facebook.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.Google.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.OAuth.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Microsoft.Web.Infrastructure.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Newtonsoft.Json.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Owin.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\PagedList.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\PagedList.Mvc.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\System.Web.Helpers.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\System.Web.Mvc.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\System.Web.Optimization.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\System.Web.Razor.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\System.Web.Webpages.Deployment.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\System.Web.Webpages.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\System.Web.Webpages.Razor.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\WebGrease.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Antlr3.Runtime.pdb
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\EntityFramework.xml
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\EntityFramework.SqlServer.xml
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Microsoft.AspNet.Identity.Core.xml
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.xml
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.xml
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.Cookies.xml
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.Facebook.xml
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.Google.xml
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.OAuth.xml
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Newtonsoft.Json.xml
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\PagedList.xml
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\PagedList.Mvc.xml
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\System.Web.Optimization.xml
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\System.Web.Razor.xml
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\System.Web.Webpages.xml
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\System.Web.Webpages.Deployment.xml
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\System.Web.Webpages.Razor.xml
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\System.Web.Helpers.xml
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\System.Web.Mvc.xml
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\obj\Debug\Job Offers Website.csproj.AssemblyReference.cache
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\obj\Debug\Job_Offers_Website.Migrations.InitialCreate.resources
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\obj\Debug\Job_Offers_Website.Migrations.AddColumnUserType.resources
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\obj\Debug\Job_Offers_Website.Migrations.AddCategoryTable.resources
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\obj\Debug\Job_Offers_Website.Migrations.AddCategory_Table.resources
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\obj\Debug\Job_Offers_Website.Migrations.AddJob_Table.resources
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\obj\Debug\Job_Offers_Website.Migrations.AddApplyForJobTable.resources
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\obj\Debug\Job_Offers_Website.Migrations.EditJobModel.resources
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\obj\Debug\Job_Offers_Website.Migrations.AddCVTOApplyForJob.resources
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\obj\Debug\Job Offers Website.csproj.GenerateResource.cache
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\obj\Debug\Job Offers Website.csproj.CoreCompileInputs.cache
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\obj\Debug\Job Offers Website.csproj.CopyComplete
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\obj\Debug\Job Offers Website.dll
+F:\MyFiles2021\don Net Project\Job Offers Website\Job Offers Website\obj\Debug\Job Offers Website.pdb
+C:\Users\Muaam\OneDrive\Desktop\don Net Project\Git_JobWebSite\Job Offers Website\obj\Debug\Job Offers Website.dll
+C:\Users\Muaam\OneDrive\Desktop\don Net Project\Git_JobWebSite\Job Offers Website\obj\Debug\Job Offers Website.pdb

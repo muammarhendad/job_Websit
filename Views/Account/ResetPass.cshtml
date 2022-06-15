@@ -1,0 +1,64 @@
+﻿@{
+    ViewBag.Title = "ResetmyPassword";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-8">
+            <div class="card text-center">
+                <div class="card-header">
+                    <h3 class="display-5"> ResetmyPassword </h3>
+                </div>
+                @if (ViewBag.Change!= null)
+                {
+                <div style="margin:10px;" class="alert alert-warning" role="alert">
+                    <strong>@ViewBag.Change </strong>
+                </div>
+                }
+                <div class="alert alert-light">
+                    <strong>
+                        Check your Email We send Code 6 digit number
+                    </strong>
+                </div>
+                <div class="card-body">
+                    @using (Html.BeginForm())
+                    {
+                        @Html.AntiForgeryToken()
+                    <div class="mb-3 row">
+                        <label for="inputCode" class="col-md-4 col-form-label"><strong>Code</strong> </label>
+                        <input type="text" class="form-control form-control-lg col-md-4"  name="Code" />
+                    </div>
+                        <div class="mb-3 row">
+                            <label for="inputPassword" class="col-md-4 col-form-label"><strong>New Password</strong> </label>
+                            <input type="password" class="form-control form-control-lg col-md-5" name="NewPass" />
+                        </div>
+                        <div class="mb-3 row">
+                            <button type="submit" class="btn badge-success btn-lg" id="btn_save">
+                                RestPasswoed
+                            </button>
+                        </div>
+                        }
+
+                    </div>
+
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<style>
+    .btn {
+        margin: 10px;
+    }
+
+    .card {
+        background-position-y: center;
+        margin: 30px;
+        box-shadow: inset 0 -3em 3em rgba(0,0,0,0.1), 0 0 0 2px rgb(255,255,255), 0.3em 0.3em 1em rgba(0,0,0,0.3);
+    }
+</style>
+
+
