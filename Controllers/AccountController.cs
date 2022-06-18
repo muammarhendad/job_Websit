@@ -203,7 +203,7 @@ namespace WebApplication3.Controllers
                 Session["User_Name"] = User_Name;
                 // send email 
                 var mail = new MailMessage();
-                var LoginInfo = new NetworkCredential("muaamar.hendad1991@gmail.com", "Hendad1991");
+                var LoginInfo = new NetworkCredential("muaamar.hendad1991@gmail.com", "@Hendad@1991");
                 mail.From = new MailAddress("Moamerhendad@gmail.com");
                 mail.To.Add(new MailAddress(email));
                 mail.Subject = "Reset your Password (Job WebSite)";
