@@ -29,8 +29,8 @@ namespace WebApplication3
                 ApplicationUser user = new ApplicationUser();
                 user.UserName = "MuaamarHendad";
                 user.Email = "muaamar.hendad1991@gmail.com";             
-                var check = userManager.Create(user, "Entisar@1994");
-                // var check1 = userManager.CreateAsync(user, "Hendad@1991");
+                var check = userManager.Create(user, "************");
+                // var check1 = userManager.CreateAsync(user, "***********");
               //  var result = await userManager.CreateAsync(user, "");
                 if (check.Succeeded)
                 {
